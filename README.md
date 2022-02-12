@@ -1,5 +1,4 @@
-- 👋  Hi, I’m Ricky DeFazio.
+- 👋  Hi, I’m Rick DeFazio, Jr.
 - 🌱  I study Software Development and Psychology.
-- 👀  I’m interested in being as productive as possible.
-- 💞️  I’m currently collaborating on [Volusion](https://www.volusion.com/) products.
-- 📫  The best way to reach me: [LinkedIn](http://linkedin.com/in/rickydefazio)
+- 💞️  I’m currently contributing to [Volusion](https://www.volusion.com/).
+- 📫  The best way to reach me: [LinkedIn](http://linkedin.com/in/rickydefazio).
