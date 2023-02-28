@@ -1,3 +1,3 @@
 - 👋  Hi, I’m Ricky DeFazio.
-- 🌱  I have a curious mind and a love for learning, software engineering, psychology, and investing. 
+- 🌱  I have a curious mind and a love for learning, software engineering, and psychology.
 - 📫  The best way to reach me: [LinkedIn](http://linkedin.com/in/rickydefazio).
