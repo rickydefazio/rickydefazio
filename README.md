@@ -2,4 +2,3 @@
 - 🎯  I'm a productivity enthusiast with a curious mind and a love for learning, software engineering, and psychology.
 - 📫  The best way to reach me: [LinkedIn](http://linkedin.com/in/rickydefazio).
 - 💡  Sharing tips and insights for self-improvement on [Twitter](http://twitter.com/rickydefazio).
-- ✍️  Writing meaningful longform content on [Medium](http://rickydefazio.medium.com).
