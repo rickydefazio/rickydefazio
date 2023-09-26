@@ -1,4 +1,6 @@
-- 👋  Hi, I’m Ricky DeFazio.
-- 🎯  I'm a productivity enthusiast with a curious mind and a love for learning, software engineering, and psychology.
-- 📫  The best way to reach me: [LinkedIn](http://linkedin.com/in/rickydefazio).
-- 💡  Sharing tips and insights for self-improvement on [Twitter](http://twitter.com/rickydefazio).
+- 👋 Hey there! I'm Ricky DeFazio, but you can call me Riccardo.
+- 🎓 I'm a two-time honors grad with over 5 years of experience as a Software Developer.
+- 🚀 Currently, I'm building SaaS products when I'm not working for my amazing employer.
+- 📚 Lifelong learner with a passion for web development, psychology, and personal finance.
+- 📫 The best way to reach me: [LinkedIn](https://linkedin.com/in/rickydefazio).
+- 💡 Sharing tips, insights, and my personal journey on [Twitter/X](https://twitter.com/rickydefazio).
