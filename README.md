@@ -3,4 +3,4 @@
 - 🚀 Currently, I'm building SaaS products when I'm not working for my amazing employer.
 - 📚 Lifelong learner with a passion for web development, psychology, and personal finance.
 - 📫 The best way to reach me: [LinkedIn](https://linkedin.com/in/rickydefazio).
-- 💡 Sharing tips, insights, and my personal journey on [Twitter/X](https://twitter.com/rickydefazio).
+- 💡 Sharing tips, insights, and my personal journey on [Twitter / X](https://twitter.com/rickydefazio).
