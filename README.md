@@ -4,4 +4,4 @@
 - 🛠️ On the side, I'm an Indie Hacker building SaaS products and engaging in freelance web development.
 - 🚀 If you're looking to build an online presence, consider hiring me for all your web development needs: [Portfolio](https://rickydefazio.github.io).
 - 💡 Sharing tips, insights, and my personal journey on: [Twitter / X](https://twitter.com/rickydefazio).
-- 📫 The best way to reach me: [LinkedIn](https://linkedin.com/in/rickydefazio) or [X](https://twitter.com/rickydefazio)
+- 📫 The best way to reach me: [LinkedIn](https://linkedin.com/in/rickydefazio) or [X](https://twitter.com/rickydefazio).
