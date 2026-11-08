@@ -4,4 +4,4 @@
 - 📫 The best way to reach me: [LinkedIn](https://linkedin.com/in/rickydefazio).
 
 
-**Contribution Graph Note:** The apparent decline in my GitHub commits is due to most of my work being housed in private repositories on GitHub Enterprise. I usually have around ~1500 contributions per year across my personal and professional accounts.
+**Contribution Graph Note:** Most of my work these days is housed in private repositories on GitHub Enterprise. I usually have around ~1500 contributions per year across my personal and professional accounts.
